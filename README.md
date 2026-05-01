@@ -86,6 +86,8 @@ frontend/index.html
 * 📊 Graphical Results Dashboard
 * ☁️ Deployment on Cloud
 
+Developed between July–September 2025
+
 ---
 
 ## 👨‍💻 Author
